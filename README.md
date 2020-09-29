@@ -104,6 +104,9 @@ This assignment is adapted from the [MIT Introduction to Computer Science](https
 5. asterick symbol * - used to indicate multiplication 
 6. parenthesis () - used to determine which operations are performed first. 
 7. Python are case-sensitive
+8. The word until should usually indicate a WHILE LOOP should be used 
+9. REsearch when an ELSE case isued- it is used when you have a break in your loop\.
+
 
 
 

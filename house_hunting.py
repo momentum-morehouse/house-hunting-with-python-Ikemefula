@@ -1,5 +1,6 @@
 # Write your code here
-# python cares about white space. be cog
+<<<<<<< HEAD
+# python cares about white space. be cognizant of that in your code
 # return vs print - return is an actual value to use it in another . 
 # Print 
 
@@ -21,3 +22,6 @@ while current_savings < portion_down_payment:
     i += 1
 print("It will take you", i, "months to save up for the downpayment!" )
 finish()
+=======
+# Write your code here
+>>>>>>> c263df45900034994fed17b78e10c00bc790b424
