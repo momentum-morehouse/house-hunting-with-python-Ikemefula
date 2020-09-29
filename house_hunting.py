@@ -20,3 +20,4 @@ while current_savings < portion_down_payment:
     current_savings += investment_return
     i += 1
 print("It will take you", i, "months to save up for the downpayment!" )
+finish()

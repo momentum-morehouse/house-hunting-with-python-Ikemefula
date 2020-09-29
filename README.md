@@ -22,6 +22,9 @@ After completing this assignment, you should be able to:
 ## Details
 
 1. Call the cost of your dream home `total_cost​`.
+<!-- decalre a variable in Python -->
+
+
 2. Call the portion of the cost needed for a down payment `portion_down_payment​`. For simplicity, assume that `portion_down_payment` = 0.25 (25%).
 3. Call the amount that you have saved thus far `current_savings​`. You start with a current savings of $0.
 4. Assume that you invest your current savings wisely, with an annual return of `r` ​(in other words, at the end of each month, you receive an additional `current_savings*r/12`​ funds to put into your savings – the 12 is because `r`​ is an annual rate). Assume that your investments earn a return of `r` = 0.04 (4%).
@@ -83,3 +86,32 @@ Number of months: ???
 ## Credit
 
 This assignment is adapted from the [MIT Introduction to Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/assignments/) course.
+
+
+
+    <!--                                         NOTES/ THINGS TO RESEARCH/ TIPS AND TRICKS                                                                       -->
+
+ 
+
+
+<!-- 
+
+1. print() Function -Prints the values to a stream, or to sys.stdout by default. Optional keyword arguments: file: a file-like object (stream); defaults to the current sys.stdout. sep: string inserted between values, default a space. end: string appended after the last value, default a newline. flush: whether to forcibly flush the stream. Can be used to output multiple lines of code.
+
+2. spam and Eggs vs foo and bar -  
+3. Simple Operations- 
+4 Forward Slash - used to indicate division 
+5. asterick symbol * - used to indicate multiplication 
+6. parenthesis () - used to determine which operations are performed first. 
+7. Python are case-sensitive
+
+
+
+
+
+
+
+
+-->
+
+
